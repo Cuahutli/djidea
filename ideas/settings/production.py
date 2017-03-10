@@ -30,6 +30,17 @@ DEBUG = False
 ALLOWED_HOSTS = ['curideas.herokuapp.com']
 
 
+#MAIL_HOST = 'smtp.gmail.com'
+#EMAIL_HOST_USER = 'youremail@gmail.com' #my gmail username
+#EMAIL_HOST_PASSWORD = 'yourpassword' #my gmail password
+#EMAIL_PORT = 587
+#EMAIL_USE_TLS = True
+#DEFAULT_FROM_EMAIL = "Justin <hungrypy@gmail.com>"
+#
+#
+#ADMINS = [('Justin', EMAIL_HOST_USER)]
+#MANAGERS = ADMINS
+
 # Application definition
 
 INSTALLED_APPS = [
