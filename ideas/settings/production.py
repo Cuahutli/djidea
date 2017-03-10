@@ -27,7 +27,7 @@ SECRET_KEY = 'esmzjs6-1=n$53f$p-e^)ribdmiy($39208_*=a_9$%u%c$=0('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['curideas.herokuapp.com']
 
 
 # Application definition
